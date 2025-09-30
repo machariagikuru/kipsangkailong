@@ -176,7 +176,7 @@ export const Contact = () => {
             </p>
             <div className="flex flex-col sm:flex-row flex-wrap gap-4 justify-center">
               <a
-                href="/Kailong-Kipsang-poster.jpg"
+                href="/kailong-kipsang-poster.jpg"
                 download
                 className="inline-flex"
               >
