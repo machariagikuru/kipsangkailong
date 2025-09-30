@@ -66,7 +66,7 @@ export const TeamKailongKipsangImageSection = () => {
                     <div className="absolute bottom-4 left-4 flex flex-col items-center z-30">
                         <button
                             onClick={() =>
-                                handleShare("/images/poster.png", "/images/poster.jpg")
+                                handleShare("/images/poster.jpg", "/images/poster.jpg")
                             }
                             className="flex items-center gap-2 px-4 py-2 bg-primary text-primary-foreground rounded-full hover:bg-primary/90 transition duration-300 shadow-lg hover:shadow-xl transform hover:scale-105 text-base font-semibold"
                         >
