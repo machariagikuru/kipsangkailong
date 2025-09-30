@@ -87,7 +87,7 @@ export const Contact = () => {
                   className="bg-primary hover:bg-primary/90 text-primary-foreground"
                   onClick={() => {
                     window.open(
-                      'https://wa.me/254720470328?text=Hi%20Mr.%20Kailong%20Kipsang%2C%20I%20would%20like%20to%20join%20your%20campaign%20WhatsApp%20group.%20Please%20add%20me',
+                      'https://chat.whatsapp.com/L2smgkT5OYoCxn0btO9j2i?"',
                       '_blank',
                       'noopener,noreferrer'
                     );
@@ -176,7 +176,7 @@ export const Contact = () => {
             </p>
             <div className="flex flex-col sm:flex-row flex-wrap gap-4 justify-center">
               <a
-                href="/Kailong-Kipsang-poster.png"
+                href="/Kailong-Kipsang-poster.jpg"
                 download
                 className="inline-flex"
               >
