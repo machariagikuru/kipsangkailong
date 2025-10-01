@@ -29,7 +29,7 @@ export const Hero = () => {
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-4xl mx-auto leading-relaxed animate-fade-in-up">
             Leadership is not a title, it is a duty. <br className="hidden md:block" />
             I stand to serve, not to be served-
-            to listen to every teacher, act on their conerns, and provide solutions that uplift us all.
+            to listen to every teacher, act on their concerns, and provide solutions that uplift us all.
           </p>
 
           {/* Call to Action for the Manifesto */}
